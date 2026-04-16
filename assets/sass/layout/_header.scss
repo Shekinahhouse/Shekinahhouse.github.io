@@ -111,7 +111,7 @@
 			}
 		}
 
-		@include breakpoint('<=medium') {
+		@include breakpoint('<=large') {
 			> .navPanelToggle {
 				display: block;
 			}
@@ -272,7 +272,7 @@
 			}
 		}
 
-		@include breakpoint('<=medium') {
+		@include breakpoint('<=large') {
 			display: none;
 		}
 	}
